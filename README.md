@@ -84,5 +84,3 @@ Start with the README inside the relevant folder:
 The raw TAU audio/video data are not redistributed in this repository. Dataset paths are referenced through the manifests in `manifests/`.
 
 ## Repository
-
-`https://scm.univ-tours.fr/22313906t/stvd-avsc`
